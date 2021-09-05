@@ -1,0 +1,4 @@
+node_modules/
+.eslintcache
+config.env
+.DS_Store
